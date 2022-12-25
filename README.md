@@ -1,5 +1,5 @@
 # Drips
-![crates.io](https://img.shields.io/crates/v/drips.svg)
+[![crates.io](https://img.shields.io/crates/v/drips.svg)](https://crates.io/crates/drips)
 
 ## Usage
 
