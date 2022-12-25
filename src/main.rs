@@ -13,7 +13,7 @@ use spinach::{term, Spinach};
 use clap::{Parser, Subcommand};
 
 #[derive(Parser)]
-#[command(name = "Drip")]
+#[command(name = "Drips")]
 #[command(author = "Zane Schaffer <personal.zane@gmail.com>")]
 #[command(version = "1.0")]
 #[command(about = "Transfer and recieve files over the internet", long_about = None)]
